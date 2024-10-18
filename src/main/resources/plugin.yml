@@ -1,0 +1,8 @@
+name: GoldenFriends
+main: golden.friends.FriendsBukkit
+version: 1.0
+author: pefati
+commands:
+  friend:
+    description: Comando principal para el sistema de amigos.
+    usage: /friend [add | help | deny | accept | remove | list | msg | settings | menu | globalmsg ]
